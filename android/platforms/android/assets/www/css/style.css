@@ -1,11 +1,11 @@
-/* @johnoshea */
+/* Author: @johnoshea */
 
 	body {
 	font-size: 16px;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	}
 
-	.container p {
+	.main p {
 	
 	text-align: center;
 	margin: 20px 5px 5px 5px;
@@ -13,10 +13,9 @@
 	padding-top: 20px;
 	padding-right: 5px;
 	padding-left: 5px;
-
 	}
 	
-	.container .round{
+	.main .round{
 	margin-bottom: 40px;
 	width: auto;
 	float: none;
@@ -29,7 +28,7 @@
 	background: #F8D4B3;
 	}
 
-	.container .free{
+	.main .free{
 	width: auto;
 	float: none;
 	padding-left: 20px;
