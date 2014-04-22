@@ -39,3 +39,9 @@ a:hover	{color:#225799; text-decoration:none;}
 /*borrowed clearfix hack code from http://www.positioniseverything.net/easyclearing.html*/
 .clearfix:after {content:"."; display:block; height:0; clear:both; visibility:hidden; }
 .clearfix {display:inline-block; }
+
+/*Code for Jonathans pages*/
+.pics{
+	border-radius: 15px;
+  	box-shadow: 0px 0px 10px #888;
+}
