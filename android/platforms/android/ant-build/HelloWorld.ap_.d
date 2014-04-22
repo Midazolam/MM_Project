@@ -17,11 +17,13 @@
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/cordova.js \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/cordova_plugins.js \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/css \
+/Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/flag.html \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/images \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/index.html \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/phonegap.js \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/README.md \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/res_hidden \
+/Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/script.php \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/spec_hidden \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/css/style.css \
 /Users/johnoshea/Documents/NCI/MM/MM_Project/android/platforms/android/assets/www/images/bg.jpg \
